@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jamelscott
-- 👀 I’m interested in learning HTML, CSS and JavaScript
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 👀 I’m interested in learning how to become a full stack dev
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me via email itsjamelscott@gmail.com
 
