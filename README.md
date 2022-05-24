@@ -5,7 +5,7 @@ Software developer
 ------------------
 
 * 🌍  I'm based in Vancouver, BC.
-* 🖥️  See my portfolio at [this link.](http://https://portfolio-five-murex.vercel.app/)
+* 🖥️  See my portfolio at [this link.](https://www.jamelscott.dev/)
 * ✉️  You can contact me at [itsjamelscott@gmail.com](mailto:itsjamelscott@gmail.com)
 * 🧠  I'm learning Flow Blockchain technology, Framer-Motion and TypeScript
 * 🤝  I'm open to collaborating on blockchain/W3 and web development projects
