@@ -5,10 +5,8 @@ Software developer
 ------------------
 
 * 🌍  I'm based in Vancouver, BC.
-* 🖥️  See my portfolio at [this link.](https://www.jamelscott.dev/)
+* 🖥️  See my portfolio at [this link.](https://www.jamelfadel.com/)
 * ✉️  You can contact me at [itsjamelscott@gmail.com](mailto:itsjamelscott@gmail.com)
-* 🧠  I'm learning Flow Blockchain technology, Framer-Motion and TypeScript
-* 🤝  I'm open to collaborating on blockchain/W3 and web development projects
 ### Skills
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
